@@ -1,0 +1,8 @@
+# Environment
+venv/
+
+#Data
+data/
+
+# Results
+results/
